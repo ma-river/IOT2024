@@ -1,7 +1,5 @@
-# IOT2024
+# Alarme de segurança via Whatsapp
 Disciplina de IOT para sistemas embarcados
-
-Alarme de segurança via Whatsapp
 
 A motivação é presente numa situação de crescente insegurança quanto a proteção do seu lar
 
