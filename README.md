@@ -10,4 +10,4 @@ Embedded Systems IoT Course
 
 - A system that provides monitoring of your house in an accessible manner and communicates with you in real-time through something that is always in your sight: your mobile device.
 - 
- ![architecture](Blank board.png)
+ ![architecture]([Blank board.png](https://github.com/ma-river/IOT2024/blob/main/Blank%20board.png))
