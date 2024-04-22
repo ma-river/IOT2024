@@ -9,4 +9,4 @@ Embedded Systems IoT Course
 **Objective**
 
 - A system that provides monitoring of your house in an accessible manner and communicates with you in real-time through something that is always in your sight: your mobile device.
- ![architecture]("C:\Users\Matheus River\Downloads\Blank board.png")
+ ![architecture](C:\Users\Matheus River\Downloads\Blank board.png)
