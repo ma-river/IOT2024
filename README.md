@@ -16,4 +16,4 @@ Embedded Systems IoT Course
 
 [link for installation guide](https://github.com/ma-river/IOT2024/tree/main/Installation%20Guide)
 
-![conection](https://github.com/ma-river/IOT2024/blob/main/Images/Conections_esp32_sensor_ultrasonic.png)
+
