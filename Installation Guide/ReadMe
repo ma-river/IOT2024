@@ -11,5 +11,5 @@ const char* password = "Ma101002";
 
 you should input your internet's SSID and password.
 
-![pinout](https://github.com/ma-river/IOT2024/blob/591ee3e3ccd4e3fba65eae5964359413137f0ef3/Images/Conections_esp32_sensor_ultrasonic.png)
+![pinout](Images/Architecture.png)
 ![conection](https://github.com/ma-river/IOT2024/blob/main/Images/Conections_esp32_sensor_ultrasonic.png)
