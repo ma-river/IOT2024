@@ -1,4 +1,8 @@
-
+For the project, you'll need to first install the "ultrasonic.h" 
+library to use the ultrasonic sensor, the "WiFi.h" library for 
+the ESP to access the internet, and "ESPAsyncWebServer.h" and 
+"AsyncTCP.h" libraries to create and communicate with the web socket, 
+respectively.
 
 
 
