@@ -1,6 +1,11 @@
-# Alarme de segurança via Whatsapp
-Disciplina de IOT para sistemas embarcados
 
-A motivação é presente numa situação de crescente insegurança quanto a proteção do seu lar
+# Security Alarm via WhatsApp
+Embedded Systems IoT Course
 
-O Objetivo do projeto passa pela necessidade de desenvolver um sistema que mantenha um monitoramento em sua casa de forma acessivel e que se comunique com você em tempo real atraves de algo que esteja sempre a sua vista, seu aparelho celular.
+**Motivation**
+
+- Insecurity regarding the protection of your home
+
+**Objective**
+
+- A system that provides monitoring of your house in an accessible manner and communicates with you in real-time through something that is always in your sight: your mobile device.
