@@ -12,5 +12,4 @@ const char* password = "Ma101002";
 you should input your internet's SSID and password.
 
 ![pinout](https://github.com/ma-river/IOT2024/blob/main/Images/esp32-pinout-reference-wroom-devkit.webp)
-
 ![conection](https://github.com/ma-river/IOT2024/blob/main/Images/Conections_esp32_sensor_ultrasonic.png)
