@@ -1,1 +1,10 @@
 
+
+
+
+In this part of the code 
+
+const char* ssid = "mesh_24";
+const char* password = "Ma101002"; 
+
+you should input your internet's SSID and password.
