@@ -4,8 +4,6 @@ the ESP to access the internet, and "ESPAsyncWebServer.h" and
 "AsyncTCP.h" libraries to create and communicate with the web socket, 
 respectively.
 
-
-
 In this part of the code 
 
 const char* ssid = "mesh_24";
