@@ -4,8 +4,8 @@
 #include <AsyncTCP.h>
 
 // Replace with your network credentials
-const char* ssid = "mesh_24";
-const char* password = "Ma101002";
+const char* ssid = "ssid";
+const char* password = "passwaord";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
