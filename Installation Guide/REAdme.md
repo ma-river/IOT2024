@@ -5,9 +5,10 @@ The materials you need for this project.
 - Esp32
 
 - HC-SR04
+  
 **Observer Esp32 pinout**
   
-![pinout](Images/esp32-pinout-reference-wroom-devkit.png)
+![pinout](https://github.com/ma-river/IOT2024/blob/main/Images/esp32-pinout-reference-wroom-devkit.png)
 
 **Assemble Esp32 to HC-SR04**
 
