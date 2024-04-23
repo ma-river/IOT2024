@@ -6,7 +6,7 @@ The materials you need for this project.
 
 - HC-SR04
 
-<img src="/Images/arquivo.gif">
+<img src="/Images/Conections_esp32_sensor_ultrasonic.png"> 
 
 
 
