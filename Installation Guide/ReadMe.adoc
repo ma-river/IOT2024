@@ -6,7 +6,7 @@ The materials you need for this project.
 
 - HC-SR04
 
- ![conection] (https://github.com/ma-river/IOT2024/blob/main/Images/Conections_esp32_sensor_ultrasonic.png) 
+ ![conection](https://github.com/ma-river/IOT2024/blob/718b2c62ba3cee10f77a42648aa549e84149522c/Images/Conections_esp32_sensor_ultrasonic.png) 
 
 Pinout HC-SR04
 
