@@ -5,6 +5,11 @@ The materials you need for this project.
 - Esp32
 
 - HC-SR04
+**Observer Esp32 pinout**
+  
+![pinout](Images/esp32-pinout-reference-wroom-devkit.png)
+
+**Assemble Esp32 to HC-SR04**
 
 <img src="/Images/Conections_esp32_sensor_ultrasonic.png"> 
 
