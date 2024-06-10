@@ -88,7 +88,16 @@ It is important that Node-RED has access to the directory where you want to save
 **Step 3.3: Dashboard**
  
 To use the dasboard you must access the following link http://127.0.0.1:1880/ui.
-The dasboard enable the user to turn the alarm on and off using a boton.
+
+On the dashboard, it is possible to enable or disable the camera stream. The screenshot button is intended to take a snapshot of the screen and save it to a specified folder within the computer's directory. When the sensor is activated, a screenshot is also taken.
+
+Some functions for controlling the camera include:
+
+- LED Intensity: Adjusts the brightness of an LED on the board.
+  
+- Contrast and Brightness: These functions adjust the image itself on the dashboard.
+  
+- Sensor Activation: Allows the sensor to be enabled or disabled and includes a count of how many times the sensor has been activated.
 
 <img src="/Images/Dashboard.jpeg">
 
