@@ -1,5 +1,5 @@
 
-# Security Alarm via WhatsApp
+# Security Alarm system
 Embedded Systems IoT Course
 
 **Motivation**
