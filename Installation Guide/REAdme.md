@@ -86,9 +86,11 @@ Additionally, you need to replace "C:/prints/" in the Save Image block with the 
 It is important that Node-RED has access to the directory where you want to save the image.
 
 **Step 3.3: Dashboard**
-
+ 
 To use the dasboard you must access the following link http://127.0.0.1:1880/ui.
 The dasboard enable the user to turn the alarm on and off using a boton.
+
+<img src="/Images/Dashboard.jpeg">
 
 **Step 4: Whatsapp bot**
 
