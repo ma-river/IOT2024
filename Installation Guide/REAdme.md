@@ -35,6 +35,7 @@ Pinout HC-SR04
  ![Whole circuit](https://github.com/ma-river/IOT2024/blob/main/Images/whole_circuit.jpeg)
 
 **Step 2: Esp32 code**
+
 **Step 2.1: Sensor**
 
 For the project, you'll need to download Projeto_semb_iot and add the "ultrasonic.h" 
