@@ -35,7 +35,7 @@ Pinout HC-SR04
  ![Whole circuit](https://github.com/ma-river/IOT2024/blob/main/Images/whole_circuit.jpeg)
 
 **Step 2: Esp32 code**
-**Step 2: Sensor**
+**Step 2.1: Sensor**
 
 For the project, you'll need to download Projeto_semb_iot and add the "ultrasonic.h" 
 library to use the ultrasonic sensor, the "WiFi.h" library for 
@@ -51,7 +51,7 @@ const char* password = "Password";
 
 you should input your internet's SSID and password.
 
-**Step 2: Esp32 Cam**
+**Step 2.2: Esp32 Cam**
 
 In the board manager, it is important to install version 2.0.2 because the more recent versions are presenting bugs.
 
