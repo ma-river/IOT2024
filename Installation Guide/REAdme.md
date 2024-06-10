@@ -35,6 +35,7 @@ Pinout HC-SR04
  ![Whole circuit](https://github.com/ma-river/IOT2024/blob/main/Images/whole_circuit.jpeg)
 
 **Step 2: Esp32 code**
+**Step 2: Sensor**
 
 For the project, you'll need to download Projeto_semb_iot and add the "ultrasonic.h" 
 library to use the ultrasonic sensor, the "WiFi.h" library for 
@@ -50,13 +51,40 @@ const char* password = "Password";
 
 you should input your internet's SSID and password.
 
+**Step 2: Esp32 Cam**
+
+In the board manager, it is important to install version 2.0.2 because the more recent versions are presenting bugs.
+
+In the code, you should replace the SSID and password with the network address.
+
+To upload the file, select the "ESP32 Wrover Module" board. Select "Huge APP" in the Partition Scheme, otherwise the code will not compile because it is too large.
+
 **Step 3: Node-Red**
 
 In Node-RED, you should download the libraries "node-red-contrib-whatsapp-cmb" and "node-red-dashboard". 
-Next, download the "Semb_IOT_2024.json" file and import it into Node-RED. 
+Next, download the "Semb_IOT_2024.json" file and import it into Node-RED.
+
+**Step 3.1: Sensor**
+
 Finally, replace the IP address in the WebSocket node of Node-RED with the IP address of your board, found in the serial monitor of the ".ino" code.
 
-**Step 3.1: Dashboard**
+**Step 3.2: Cam**
+
+The address retrieved in the camera code will be used to replace the IP address spaces in the following blocks:
+
+You need to change the IP in the blocks:
+
+- Brightness control
+- Contrast control
+- Led intensity
+- Display Stream
+- Capture Image
+- 
+Additionally, you need to replace "C:/prints/" in the Save Image block with the path where you want to save the screenshot.
+
+It is important that Node-RED has access to the directory where you want to save the image.
+
+**Step 3.3: Dashboard**
 
 To use the dasboard you must access the following link http://127.0.0.1:1880/ui.
 The dasboard enable the user to turn the alarm on and off using a boton.
