@@ -53,7 +53,7 @@ you should input your internet's SSID and password.
 **Step 3: Node-Red**
 
 In Node-RED, you should download the libraries "node-red-contrib-whatsapp-cmb" and "node-red-dashboard". 
-Next, download the "security_alarm_flow" file and import it into Node-RED. 
+Next, download the "Semb_IOT_2024.json" file and import it into Node-RED. 
 Finally, replace the IP address in the WebSocket node of Node-RED with the IP address of your board, found in the serial monitor of the ".ino" code.
 
 **Step 3.1: Dashboard**
