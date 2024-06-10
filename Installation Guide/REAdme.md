@@ -79,7 +79,7 @@ You need to change the IP in the blocks:
 - Led intensity
 - Display Stream
 - Capture Image
-- 
+  
 Additionally, you need to replace "C:/prints/" in the Save Image block with the path where you want to save the screenshot.
 
 It is important that Node-RED has access to the directory where you want to save the image.
