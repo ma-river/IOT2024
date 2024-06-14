@@ -4,7 +4,7 @@ Embedded Systems IoT Course
 
 **Motivation**
 
-- Insecurity regarding the protection of your home
+- The motivation for the system is a modern dilemma regarding the safety and security of your home
 
 **Objective**
 
